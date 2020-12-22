@@ -1,0 +1,97 @@
+<html>
+<head>
+<link rel="stylesheet" property="stylesheet" href="https://app.propertyware.com/pw/website/widgets/listing.min.css"/>
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap" rel="stylesheet">
+<title>Cross Roads Apartments</title>
+<link rel="stylesheet" href="css/primary.css">
+<link rel="stylesheet" href="css/index.css">
+<link rel="icon" href="logo.png">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="keywords" content="Cross Roads Apartments, Apartments, for rent">
+<meta name="description" content="hi">
+</head>
+<body>
+<div class="navbar1">
+<a href="/index.html"><image src="banner.png" class="homeimage"></a>
+<button class="navbutton"><a href="/listings.html" class="navtext">Listings</a></button>
+<button class="navbutton"><a href="/3d.html" class="navtext">3-D Tours</button>
+<button class="navbutton"><a href="/contact.html" class="navtext">Contact</a></button>
+</div>
+<div class="div1">
+<img src="https://images1.apartments.com/i2/lPmshksmAl91g6i6Wk9N5uR6CbCcA0lfsCVMnOV9Goo/111/crossroads-apartments-sauk-village-il-primary-photo.jpg" class="indexbanner" id="img1">
+<img src="image1.jpg" class="indexbanner" id="img2">
+<img src="image2.jpg" class="indexbanner" id="img3">
+<img src="image3.jpg" class="indexbanner" id="img4">
+<img src="image4.jpg" class="indexbanner" id="img5">
+<img src="image5.jpg" class="indexbanner" id="img6">
+<img src="image6.jpg" class="indexbanner" id="img7">
+<img src="image7.jpg" class="indexbanner" id="img8">
+<h1 class="indexheader1">About CrossRoads</h1>
+<h1 class="indextext1">Engage in the only complex in Sauk Village with filtered water! This comfortable and quiet community is ideal for anyone looking for a home. With the expressway minutes away and department stores within walking distance, this complex is a commuter’s dream! The Crossroads offers spacious studio, 1, 2, and 3 bedroom residences, tastefully designed for your contemporary lifestyle. Style, serenity, and convenience - it's all here for you at the Crossroads.</h1>
+<button class="indexbutton1"><a class="indexbuttontext1" href="/widget/?min_beds=1&max_beds=1">1 bed</a></button>
+<button class="indexbutton2"><a class="indexbuttontext2" href="/widget/?min_beds=2&max_beds=2">2 bed</a></button>
+<button class="indexbutton3"><a class="indexbuttontext3" href="/widget/?min_beds=3&max_beds=3">3 bed</a></button>
+</div>
+</body>
+<script>
+setInterval(start, 2)
+var img = 1;
+function start()
+{
+if (img == 1)
+{
+document.getElementById("img8").style.width = "0%";
+document.getElementById("img7").style.width = "0%";
+document.getElementById("img3").style.width = "0%";
+document.getElementById("img1").style.width = "40%";
+setTimeout(function(){ img = 2 }, 4000);
+}
+if (img == 2)
+{
+document.getElementById("img1").style.width = "0%";
+document.getElementById("img2").style.width = "40%";
+setTimeout(function(){ img = 3 }, 4000);
+}
+if (img == 3)
+{
+document.getElementById("img2").style.width = "0%";
+document.getElementById("img3").style.width = "22.44%";
+document.getElementById("img5").style.width = "22.44%";
+document.getElementById("img5").style.left = "81.44%";
+setTimeout(function(){ img = 4 }, 4000);
+}
+if (img == 4)
+{
+document.getElementById("img3").style.width = "0%";
+document.getElementById("img5").style.width = "0%";
+document.getElementById("img4").style.width = "40%";
+setTimeout(function(){ img = 5 }, 4000);
+}
+if (img == 5)
+{
+document.getElementById("img4").style.width = "0%";
+document.getElementById("img6").style.width = "22.44%";
+document.getElementById("img7").style.width = "22.44%";
+document.getElementById("img7").style.left = "81.44%";
+setTimeout(function(){ img = 6 }, 4000);
+}
+if (img == 6)
+{
+document.getElementById("img6").style.width = "0%";
+document.getElementById("img7").style.width = "22.44%";
+document.getElementById("img7").style.left = "81.44%";
+document.getElementById("img8").style.width = "22.44%";
+setTimeout(function(){ img = 1 }, 4000);
+}
+if (img == 7)
+{
+document.getElementById("img8").style.width = "0%";
+document.getElementById("img7").style.width = "22.44%";
+document.getElementById("img7").style.left = "81.44%";
+document.getElementById("img3").style.width = "22.44%";
+setTimeout(function(){ img = 1 }, 4000);
+}
+}
+</script>
+</html>
