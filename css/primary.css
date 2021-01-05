@@ -13,7 +13,6 @@ background: #FF6e00;
 left: 25%;
 opacity: .35;
 }
-@media only screen and (min-width: 1000px) {
 .homebutton
 {
 width: 10%;
