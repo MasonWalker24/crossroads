@@ -262,7 +262,7 @@ left: 27%;
 position: absolute;
 border: 5px solid #FF6e00;
 left: 31.5%;
-top: 70%;
+top: 76%;
 background: white;
 font-size: 1.8vw;
 width: 9%;
@@ -275,7 +275,7 @@ transition: .2s;
 {
 transition: .2s;
 box-shadow: -5px 10px 10px grey;
-top: 70.1%;
+top: 76.1%;
 }
 .indexbuttontext1
 {
@@ -287,7 +287,7 @@ text-decoration: none;
 position: absolute;
 border: 5px solid #FF6e00;
 left: 43.5%;
-top: 70%;
+top: 76%;
 background: white;
 font-size: 1.8vw;
 width: 9%;
@@ -300,7 +300,7 @@ transition: .2s;
 {
 transition: .2s;
 box-shadow: -5px 10px 10px grey;
-top: 70.1%;
+top: 76.1%;
 }
 .indexbuttontext2
 {
@@ -312,7 +312,7 @@ text-decoration: none;
 position: absolute;
 border: 5px solid #FF6e00;
 left: 55.5%;
-top: 70%;
+top: 76%;
 background: white;
 font-size: 1.8vw;
 width: 9%;
@@ -323,7 +323,7 @@ transition: .2s;
 }
 .indexbutton3:hover
 {
-top: 70.1%;
+top: 76.1%;
 transition: .2s;
 box-shadow: -5px 10px 10px grey;
 }
