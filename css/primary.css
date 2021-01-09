@@ -15,6 +15,10 @@ background: #FF6e00;
 left: 25%;
 opacity: .35;
 }
+  .mobileheader
+  {
+   display: none; 
+  }
 .homebutton
 {
 width: 10%;
@@ -385,6 +389,12 @@ padding-left: 20%;
 {
 width: 10%;
 }
+  .mobileheader
+  {
+   color: black;
+    font-size: 10vw;
+    left: 40%;
+  }
 .homeimage
 {
 position: absolute;
