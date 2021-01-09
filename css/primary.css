@@ -392,8 +392,9 @@ width: 10%;
   .mobileheader
   {
    color: black;
-    font-size: 10vw;
+    font-size: 6vw;
     left: 40%;
+    top: 20%;
   }
 .homeimage
 {
