@@ -446,7 +446,7 @@ top: 15%;
 {
 position: absolute;
 height: 99.9%;
-width: 60%;
+width: 0%;
 left: 39.8%;
 border: 2px solid black;
 z-index: 2;
@@ -495,7 +495,7 @@ border-radius: 13px;
 {
 position: absolute;
 height: 99.9%;
-width: 60%;
+width: 0%;
 left: 39.8%;
 border: 2px solid black;
 z-index: 2;
@@ -538,7 +538,7 @@ top: 11%;
 {
 position: absolute;
 height: 99.9%;
-width: 60%;
+width: 0%;
 left: 39.8%;
 border: 2px solid black;
 z-index: 2;
