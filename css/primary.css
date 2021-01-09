@@ -448,7 +448,7 @@ position: absolute;
 height: 99.9%;
 width: 0%;
 left: 39.8%;
-border: 2px solid black;
+border: none;
 z-index: 2;
 top: 0;
 }
@@ -469,6 +469,7 @@ border-radius: 10%;
 height: 8.75%;
 width: 5%;
 z-index: 100;
+display: none;
 }
 .div2600
 {
@@ -497,7 +498,7 @@ position: absolute;
 height: 99.9%;
 width: 0%;
 left: 39.8%;
-border: 2px solid black;
+border: none;
 z-index: 2;
 top: 0;
 }
@@ -540,7 +541,7 @@ position: absolute;
 height: 99.9%;
 width: 0%;
 left: 39.8%;
-border: 2px solid black;
+border: none;
 z-index: 2;
 top: 0;
 }
