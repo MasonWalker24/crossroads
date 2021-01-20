@@ -344,7 +344,7 @@ top: 75.1%;
 position: absolute;
 border: 5px solid #FF6e00;
 left: 43.5%;
-top: 86%;
+top: 94%;
 background: white;
 font-size: 1.8vw;
 width: 9%;
@@ -355,7 +355,7 @@ transition: .2s;
 }
   .indexbutton4:hover
 {
-top: 76.1%;
+top: 94.1%;
 transition: .2s;
 box-shadow: -5px 10px 10px grey;
 }
