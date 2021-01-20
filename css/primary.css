@@ -686,11 +686,11 @@ left: 0%;
 {
 position: absolute;
 border: 5px solid #FF6e00;
-left: 10%;
+left: 5%;
 top: 76%;
 background: white;
 font-size: 4.2vw;
-width: 80%;
+width: 40%;
 height: 13%;
 color: black;
 text-decoration: none;
@@ -711,11 +711,11 @@ text-decoration: none;
 {
 position: absolute;
 border: 5px solid #FF6e00;
-left: 10%;
-top: 90%;
+left: 55%;
+top: 76%;
 background: white;
 font-size: 4.2vw;
-width: 80%;
+width: 40%;
 height: 13%;
 color: black;
 text-decoration: none;
@@ -737,10 +737,10 @@ text-decoration: none;
 position: absolute;
 border: 5px solid #FF6e00;
 left: 10%;
-top: 104%;
+top: 90%;
 background: white;
 font-size: 4.2vw;
-width: 80%;
+width: 40%;
 height: 13%;
 color: black;
 text-decoration: none;
@@ -753,6 +753,32 @@ transition: .2s;
 box-shadow: -5px 10px 10px grey;
 }
 .indexbuttontext3
+{
+color: black;
+text-decoration: none;
+top: 75.1%;
+}
+  .indexbutton4
+{
+position: absolute;
+border: 5px solid #FF6e00;
+left: 10%;
+top: 90%;
+background: white;
+font-size: 4.2vw;
+width: 40%;
+height: 13%;
+color: black;
+text-decoration: none;
+transition: .2s;
+}
+.indexbutton4:hover
+{
+top: 76.1%;
+transition: .2s;
+box-shadow: -5px 10px 10px grey;
+}
+.indexbuttontext4
 {
 color: black;
 text-decoration: none;
