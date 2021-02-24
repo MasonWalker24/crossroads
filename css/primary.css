@@ -26,9 +26,10 @@ width: 10%;
 .homeimage
 {
 position: absolute;
-width: 30%;
+width: 20%;
 left: 1%;
 top: 2%;
+  height: 95%;
 }
 .navbar1
 {
