@@ -15,6 +15,11 @@ background: #FF6e00;
 left: 25%;
 opacity: .35;
 }
+  .normalimg
+  {
+    position: relative;
+    width: 33%;
+  }
   .mobileheader
   {
    display: none; 
