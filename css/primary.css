@@ -439,6 +439,10 @@ left: 30%;
 }
 @media only screen and (max-width: 800px)
   {
+    body
+    {
+     overflow-x: hidden; 
+    }
 .homebutton
 {
 width: 10%;
@@ -706,9 +710,9 @@ font-family: "arial", Helvetica, sans-serif;
 {
 position: absolute;
 top: -5%;
-font-size: 5vw;
+font-size: 4.5vw;
 width: 100%;
-left: 0%;
+left: 0.1%;
 }
 .indexbutton1
 {
