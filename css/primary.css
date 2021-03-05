@@ -438,6 +438,7 @@ left: 30%;
 }
 }
 @media only screen and (max-width: 800px)
+  {
 .homebutton
 {
 width: 10%;
