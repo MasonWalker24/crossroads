@@ -376,6 +376,7 @@ top: 75.1%;
 position: absolute;
 font-size: 3vw;
 left: 33%;
+  font-weight: bold;
 text-decoration: underline black;
   font-family: "Trebuchet MS", Helvetica, sans-serif;
 top: .1%
@@ -408,9 +409,10 @@ top: 40%;
 .contactheader4
 {
 position: absolute;
-font-size: 2.8vw;
+font-size: 3vw;
 font-family: "Trebuchet MS", Helvetica, sans-serif;
 top: 60%;
+  font-weight: bold;
 //border: 5px solid black;
 width: 79.1%;
 padding-left: 20%;
@@ -421,6 +423,7 @@ left: 23%;
 {
 font-size: 2vw;
 position: absolute;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
 top: 80%;
 left: 28%;
 }
@@ -431,6 +434,7 @@ font-size: 2vw;
 position: absolute;
 top: 95%;
 left: 28%;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
 }
 }
 @media only screen and (max-width: 800px)
