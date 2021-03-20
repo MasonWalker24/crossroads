@@ -710,7 +710,8 @@ position: absolute;
 font-size: 8vw;
 top: -18%;
 text-decoration: underline;
-left: 17%;
+ width: 100%;
+  text-align: center;
 font-family: "arial", Helvetica, sans-serif;
 }
 .indextext1
@@ -719,7 +720,8 @@ position: absolute;
 top: -5%;
 font-size: 4.5vw;
 width: 100%;
-left: 0.1%;
+ width: 100%;
+  text-align: center;
 }
 .indexbutton1
 {
@@ -827,7 +829,8 @@ top: 75.1%;
 {
 position: absolute;
 font-size: 9vw;
-left: 11%;
+ width: 100%;
+  text-align: center;
 text-decoration: underline black;
 top: .1%
 }
@@ -843,7 +846,8 @@ left: 0%;
 .contactheader2
 {
 position: absolute;
-left: 10.5%;
+ width: 100%;
+  text-align: center;
 font-size: 5vw;
 font-family: "Trebuchet MS", Helvetica, sans-serif;
 top: 36%;
@@ -851,7 +855,8 @@ top: 36%;
 .contactheader3
 {
 position: absolute;
-left: 25%;
+ width: 100%;
+  text-align: center;
 font-size: 5vw;
 font-family: "Trebuchet MS", Helvetica, sans-serif;
 top: 50%;
@@ -873,17 +878,18 @@ font-size: 6.8vw;
 font-family: "Trebuchet MS", Helvetica, sans-serif;
 top: 65%;
 //border: 5px solid black;
-width: 79.1%;
+ width: 100%;
+  text-align: center;
 padding-left: 20%;
 text-decoration: underline;
-left: 19%;
 }
 .contactheader5
 {
 font-size: 5vw;
 position: absolute;
 top: 88%;
-left: 19%;
+ width: 100%;
+  text-align: center;
 }
 
 .contactheader6
@@ -891,6 +897,7 @@ left: 19%;
 font-size: 5vw;
 position: absolute;
 top: 105%;
-left: 21.2%;
+ width: 100%;
+  text-align: center;
 }
 }
